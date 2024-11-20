@@ -1,0 +1,1 @@
+print("J'ai terminé l'épreuve de la Terre et c'était plutôt easy à part ALPHABET A PARTIR DE !!!🤯")
